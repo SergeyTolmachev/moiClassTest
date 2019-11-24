@@ -1,2 +1,1 @@
-# moiClassTest
-test task
+# moi-class-test
