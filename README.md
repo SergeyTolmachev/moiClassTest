@@ -1,0 +1,1 @@
+# moi-class-test
